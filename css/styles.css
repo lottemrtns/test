@@ -10,8 +10,10 @@ body {
 
 	color: #202030;
 	background-color: #C8D2FF;
+	
 }
-
+	
+.my-class { color: Yellow; background: purple; }
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
@@ -42,6 +44,7 @@ body {
 
 .biography-details li, .skill-list li {
 	padding-left: 1em;
+	
 }
 
 /* Styles for contact icons */
